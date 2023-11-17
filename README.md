@@ -12,10 +12,28 @@ Start the development server (it opens the browser)
 
     npm start
 
-Include one functional component in a separate file,
-Include one class component in another file,
-import and use your new componentes in App.js,
-style with App.css.
+Requirements for beginners (100 points here):
+- Include one functional component in a separate file, (25 points)
+- Include one class component in another file, (25 points)
+- Import and use your new componentes in App.js, (25 points)
+- Style with App.css. (25 points)
+
+Requirements for advanced students (no points here, but from * to ***):
+- Create a Footer.js component and import it into App.js. (*)
+- Translate some of the code from your current website (P2P) into react components, (**)
+<!-- link for React Styled Component in useful links list -->
+- Use React Styled Components to style your site  (***) 
+
+
+### Useful Links
+
+- VsCode SHortcuts - https://www.youtube.com/watch?v=jsZoR1kkq6s
+- Install React Developer Tools Extension for Google Chrome  - https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?pli=1
+- React Functional Component example in video - https://www.youtube.com/watch?v=NJ_qbsLf52w&t=1s
+- React Class Component video - https://www.youtube.com/watch?v=UkN-d7fan5E&list=PLqYFXd9GTRVUE1mKTvVAPqtVzLbRTnm_L&index=2 
+- React Styled Components Course - https://youtube.com/playlist?list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM&si=bNFKTTym7eSyQO32
+- Styled Components Documentation - https://styled-components.com/
+
 
 
 ## Available Scripts
@@ -84,8 +102,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Other Useful Links
-
-VsCode SHortcuts - https://www.youtube.com/watch?v=jsZoR1kkq6s
-
