@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# This Project is to be an example to the Students as a homework for Week 6 - Class 1
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The homework is to create your first React Project with the commands:
+
+    npx create-react-app yourProjectName
+
+Navigate into the project directory:
+
+    cd yourProjectName
+
+Start the development server (it opens the browser)
+
+    npm start
+
+Include one functional component in a separate file,
+Include one class component in another file,
+import and use your new componentes in App.js,
+style with App.css.
+
 
 ## Available Scripts
 
@@ -68,3 +84,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Other Useful Links
+
+VsCode SHortcuts - https://www.youtube.com/watch?v=jsZoR1kkq6s
+
