@@ -1,6 +1,10 @@
-h1 {
-  text-align: left;
-  background-color: greenyellow;
-  color: chocolate;
+
+
+.func {
+  background-color: blue;
+  color: aliceblue;
 }
 
+.main {
+  background-color: yellow;
+}
