@@ -30,10 +30,9 @@ Requirements for advanced students (no points here, but from * to ***):
 - VsCode SHortcuts - https://www.youtube.com/watch?v=jsZoR1kkq6s
 - Install React Developer Tools Extension for Google Chrome  - https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?pli=1
 - React Functional Component example in video - https://www.youtube.com/watch?v=NJ_qbsLf52w&t=1s
-- React Class Component video - https://www.youtube.com/watch?v=UkN-d7fan5E&list=PLqYFXd9GTRVUE1mKTvVAPqtVzLbRTnm_L&index=2 
+- React Class Component video - https://www.youtube.com/watch?v=9D1x7-2FmTA&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=3
 - React Styled Components Course - https://youtube.com/playlist?list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM&si=bNFKTTym7eSyQO32
 - Styled Components Documentation - https://styled-components.com/
-
 
 
 ## Available Scripts
