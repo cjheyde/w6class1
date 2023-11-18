@@ -1,31 +1,51 @@
 # This Project is to be an example to the Students as a homework for Week 6 - Class 1
 
-The homework is to create your first React Project with the commands:
+## Deliverable
 
-    npx create-react-app yourProjectName
+Create a React project and include a Header and a Footer component in it, exercise functional and class components in React.
 
-Navigate into the project directory:
+## Development
 
-    cd yourProjectName
+1. Create your first React Project with the command:  
 
-Start the development server (it opens the browser)
+        npx create-react-app yourProjectName
 
-    npm start
+2. Navigate into the project directory:   
 
-Requirements for beginners (100 points here):
-- Include one functional component in a separate file, (25 points)
-- Include one class component in another file, (25 points)
-- Import and use your new componentes in App.js, (25 points)
-- Style with App.css. (25 points)
+        cd yourProjectName
 
-Requirements for advanced students (no points here, but from * to ***):
-- Create a Footer.js component and import it into App.js. (*)
-- Translate some of the code from your current website (P2P) into react components, (**)
+3. Start the development server (it opens the browser):
+
+        npm start
+
+4. Check what is being displayed at the URL opened in your browser, to understand the code
+
+5. Include a Header as a functional component in a separate file 
+
+6. Include a Footer as a class component in another file
+
+7. Import and use your Header and Footer components in App.js
+
+8. Style them in App.css
+
+9. Create a new Repository (Repo) in GitHub for this Homework
+
+10. Add yourProjectName to the new Repo with the commands shown in GitHub (image 1 next page)
+
+11. Share your Repo link in the Google Classroom to hand in your Homework
+
+
+### Requirements for advanced students
+
+12. Create a new component that will be useful in your final project and import it into App.js
+
+13. Translate some of the code from your current website (P2P) into react components
+
+14. Use React Styled Components to style your site
 <!-- link for React Styled Component in useful links list -->
-- Use React Styled Components to style your site  (***) 
 
 
-### Useful Links
+## Useful Links
 
 - VsCode SHortcuts - https://www.youtube.com/watch?v=jsZoR1kkq6s
 - Install React Developer Tools Extension for Google Chrome  - https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?pli=1
@@ -33,6 +53,7 @@ Requirements for advanced students (no points here, but from * to ***):
 - React Class Component video - https://www.youtube.com/watch?v=9D1x7-2FmTA&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&index=3
 - React Styled Components Course - https://youtube.com/playlist?list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM&si=bNFKTTym7eSyQO32
 - Styled Components Documentation - https://styled-components.com/
+
 
 
 ## Available Scripts

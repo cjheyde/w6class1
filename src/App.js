@@ -4,6 +4,7 @@ import Name from "./Name";
 import ClassComponent from "./ClassComponent";
 import MyClassComponent from "./MyClassComponent";
 import Form from "./Form";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <ClassComponent />
       <MyClassComponent compProp="Here is the value of the prop of the Class Component" />
       <Form />
+      <Footer />
     </div>
   );
 }
