@@ -3,6 +3,7 @@ import FunctionalComponenet from "./FunctionalComponent";
 import Name from "./Name";
 import ClassComponent from "./ClassComponent";
 import MyClassComponent from "./MyClassComponent";
+import Form from "./Form";
 import Footer from "./Footer";
 
 function App() {
