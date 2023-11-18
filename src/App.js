@@ -13,6 +13,7 @@ function App() {
       <Name />
       <ClassComponent />
       <MyClassComponent compProp="Here is the value of the prop of the Class Component" />
+      <Form />
       <Footer />
     </div>
   );

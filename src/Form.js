@@ -1,3 +1,4 @@
+import StyledButton from "./components/Button";
 import React from "react";
 
 function Form() {
@@ -12,7 +13,7 @@ function Form() {
         <input type="password" />
       </label>
       <div>
-        <button type="submit">Submit</button>
+        <StyledButton type="submit">Submit</StyledButton>
       </div>
     </form>
   );
