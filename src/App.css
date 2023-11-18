@@ -2,11 +2,11 @@
 .box {
   background-color: blueviolet;
   color: black;
-  text-align: center;
-  width: 50%;
   display: flex;
   flex-direction: column;
   margin-left: 22%;
+  text-align: center;
+  width: 50%;
 }
 
 .func {
@@ -25,4 +25,12 @@
 .myComp {
   background-color: greenyellow;
   font-size:xx-large;
+}
+
+footer {
+  background-color: black;
+  color: blanchedalmond;
+  font-size: xx-small;
+  padding-right: 20px;
+  text-align: right;
 }
