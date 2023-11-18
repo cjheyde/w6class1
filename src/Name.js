@@ -1,5 +1,5 @@
 //ref. https://www.youtube.com/watch?v=NJ_qbsLf52w&t=1s -> video explaining
-const Name = () => {
+function Name() {
     const chooseName = () => {
         const names = ['Ana', 'Bianca', 'Joao', 'Maria'];
         const nameChosen = Math.floor(Math.random()*4);
@@ -7,12 +7,12 @@ const Name = () => {
     }
 
     return (
-        <main class='main'>
+        <div class='name'>
             <h2>
                 Today the luck is with {chooseName()} =)
             </h2>
-        </main>
+        </div>
     )
 }
 
-export default Name
+export default Name;
