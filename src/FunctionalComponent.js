@@ -1,6 +1,6 @@
 const FunctionalComponenet = () => {
   return (
-    <header class="func">
+    <header className="func">
       <h2>This is a Functional Component</h2>
     </header>
   );
