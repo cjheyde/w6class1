@@ -4,7 +4,7 @@ class ClassComponent extends React.Component {
   render() {
     return (
       <header class="cla">
-        <h1>This is a Class Component</h1>
+        <h3>This is a Class Component</h3>
       </header>
     );
   }

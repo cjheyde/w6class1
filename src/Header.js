@@ -1,5 +1,5 @@
 //ref. https://www.youtube.com/watch?v=NJ_qbsLf52w&t=1s -> video explaining
-function Name() {
+function Header() {
     const chooseName = () => {
         const names = ['Ana', 'Bianca', 'Joao', 'Maria'];
         const nameChosen = Math.floor(Math.random()*4);
@@ -7,12 +7,12 @@ function Name() {
     }
 
     return (
-        <div class='name'>
-            <h2>
-                Today the luck is with {chooseName()} =)
-            </h2>
-        </div>
+        <header>
+            <h1>
+                Header: Today the luck is with {chooseName()} =)
+            </h1>
+        </header>
     )
 }
 
-export default Name;
+export default Header;

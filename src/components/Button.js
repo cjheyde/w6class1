@@ -2,14 +2,15 @@
 import styled from "styled-components";
 
 const StyledButton = styled.button`
-  background-color: lightgray;
+  background-color: darkgray;
   border: 4px solid gray;
+  border-radius: 10px;
   color: black;
   cursor: pointer;
-  display: inline-block;
   font-size: 18px;
   margin: 8px;
-  padding: 15px 32px;
+  padding: 0.6em 2em;
+  position: relative;
   text-align: center;
   transition: 1s all ease-out;
 `;
