@@ -6,7 +6,7 @@ class Footer extends React.Component {
 
     return (
       <footer>
-        <h3>{message}</h3>
+        <h4>{message}</h4>
       </footer>
     );
   }

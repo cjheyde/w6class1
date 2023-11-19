@@ -9,13 +9,16 @@
   width: 50%;
 }
 
+header {
+  background-color: yellow;
+  text-align: left;
+  padding-left: 20px;
+}
+
 .func {
   background-color: blue;
   color: aliceblue;
-}
-
-.name {
-  background-color: yellow;
+  text-align: center;
 }
 
 .cla {
@@ -24,7 +27,8 @@
 
 .myComp {
   background-color: greenyellow;
-  font-size:xx-large;
+  font-size: x-large;
+  text-align: center;
 }
 
 footer {
