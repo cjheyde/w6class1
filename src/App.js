@@ -12,7 +12,7 @@ function App() {
       <Header />
       <FunctionalComponenet />
       <ClassComponent />
-      <MyClassComponent compProp="Here is the value of the prop of the Class Component" />
+      <MyClassComponent compProp="Here is the value of the props of the Class Component" />
       <Form />
       <Footer />
     </div>

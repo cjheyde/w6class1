@@ -1,4 +1,4 @@
-const FunctionalComponenet = () => {
+const FunctionalComponent = () => {
   return (
     <header className="func">
       <h2>This is a Functional Component</h2>
@@ -6,4 +6,4 @@ const FunctionalComponenet = () => {
   );
 };
 
-export default FunctionalComponenet;
+export default FunctionalComponent;
